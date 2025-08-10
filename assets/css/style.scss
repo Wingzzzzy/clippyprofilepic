@@ -1,17 +1,15 @@
+@import url("jekyll-theme-minimal.css"); // Use correct import for CSS file
 body {
-  background-color: #000;
+  background-color: #000 !important; // Ensure override
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#5a66a8;
-  margin:0 0 20px;
+  color: #5a66a8 !important;
+  margin: 0 0 20px !important;
 }
 
 p {
-  color:#ffffff;
+  color: #ffffff !important;
 }
 
----
----
-
-@import "jekyll-theme-minimal";
+// Make sure your SCSS is compiled to CSS and linked in your HTML
