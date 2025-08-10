@@ -1,1 +1,3 @@
-## Clippy Profile Pictures? Why is it everywhere?
+# Clippy Profile Picture movement
+
+## A movement by Louis Rossman
