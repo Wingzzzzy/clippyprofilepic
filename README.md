@@ -7,6 +7,6 @@ With companies like Meta being able to [advertise beauty products to you by just
 
 ### Resources
 
-Louis Rossmann Original Video : https://www.youtube.com/watch?v=2_Dtmpe9qaQ
+Louis Rossmann Original Video : (https://www.youtube.com/watch?v=2_Dtmpe9qaQ)
 
-Consumer Rights Wiki : https://consumerrights.wiki/
+Consumer Rights Wiki : (https://consumerrights.wiki/)
