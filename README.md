@@ -15,3 +15,5 @@ DeGoogling Getting Started: [LINK](https://www.reddit.com/r/degoogle/comments/bs
 Go CorpFree: [LINK](https://www.reddit.com/r/CorpFree/comments/byxmd1/getting_started_why_you_should_go_corpfree/)
 
 FMHY: [LINK](https://fmhy.pages.dev/)
+
+Clippies to use (Both SVG and PNG): [LINK](https://github.com/Wingzzzzy/clippyprofilepic/tree/main/clippy)
