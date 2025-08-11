@@ -12,6 +12,6 @@ Consumer Rights Wiki: [LINK](https://consumerrights.wiki/)
 
 DeGoogling Getting Started: [LINK](https://www.reddit.com/r/degoogle/comments/bsa6al/getting_started_why_you_should_degoogle/)
 
-Go CropFree: [LINK](https://www.reddit.com/r/CorpFree/comments/byxmd1/getting_started_why_you_should_go_corpfree/)
+Go CorpFree: [LINK](https://www.reddit.com/r/CorpFree/comments/byxmd1/getting_started_why_you_should_go_corpfree/)
 
 FMHY: [LINK](https://fmhy.pages.dev/)
