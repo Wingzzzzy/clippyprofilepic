@@ -20,3 +20,5 @@ Go CorpFree: [LINK](https://www.reddit.com/r/CorpFree/comments/byxmd1/getting_st
 FMHY: [LINK](https://fmhy.pages.dev/)
 
 Clippies to use (Both SVG and PNG): [LINK](https://github.com/Wingzzzzy/clippyprofilepic/tree/main/clippy)
+
+Cnsuimer Rights Wiki about Clippy Movement : [LINK](consumerrights.wiki/Clippy_Campaign)
