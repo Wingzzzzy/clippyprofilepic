@@ -1,5 +1,5 @@
 ## UPDATE : 
-My domain is gonna run out soon so if you want to help me cover it you can donate on https://ko-fi.com/wingzzzzy
+My domain is gonna run out soon so if you want to help me cover it you can donate on [https://ko-fi.com/wingzzzzy](https://ko-fi.com/wingzzzzy)
 But is fine if you don't as the server will return to the github page default URL. if you can't find it go to my github
 
 
