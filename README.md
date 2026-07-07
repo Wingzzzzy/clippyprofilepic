@@ -1,3 +1,8 @@
+## UPDATE : 
+My domain is gonna run out soon so if you want to help me cover it you can donate on https://ko-fi.com/wingzzzzy
+But is fine if you don't as the server will return to the github page default URL. if you can't find it go to my github
+
+
 ## Disclamer
 This site is a fan made effort about the Clippy movement and in no way is made or endorsed by Louis Rossmann the creator of the movement. The reason is as people made pump and dump under the clippy name so i made this a one stop shop about the movement with some resources, and the project being open source you can contribute to make the site better. 
 
